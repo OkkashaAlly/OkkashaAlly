@@ -106,9 +106,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OkkashaAlly/OkkashaAlly/output/snake.svg" alt="Snake animation" />
-
-###
